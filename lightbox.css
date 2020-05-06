@@ -107,7 +107,7 @@ body:after {
 .lb-nav a.lb-prev {
     width: 5em;
     float: left;
-    background: url(../images/prev.png)15% 49% no-repeat;
+    background: url(https://1.bp.blogspot.com/-Wj3-XDwA-68/XrJ0W5CGnUI/AAAAAAAAAK4/65McAaGLTnkpCfWBztyHBC9fd1wDzARYQCLcBGAsYHQ/s1600/prev.png)15% 49% no-repeat;
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
     opacity: 0;
     -webkit-transition: opacity 0.6s;
@@ -125,7 +125,7 @@ body:after {
     width: 5em;
     right: 0;
     float: right;
-    background: url(../images/next.png) 79% 49% no-repeat;
+    background: url(https://1.bp.blogspot.com/-oetkuEyT4X0/XrJ0WiknAaI/AAAAAAAAAK0/70C7_1CfMDAzxuYFZx6qdswjhKLgdF7FgCLcBGAsYHQ/s1600/next.png) 79% 49% no-repeat;
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
     opacity: 0;
     -webkit-transition: opacity 0.6s;
@@ -192,7 +192,7 @@ body:after {
   width: 30px;
   height: 30px;
   margin-top: 1.5em;
-  background: url(../images/close.png) top right no-repeat;
+  background: url(https://1.bp.blogspot.com/-cmGbqNXtJ3w/XrJ0P5spBpI/AAAAAAAAAKA/Ge-UK_Y7ZLwPc6OqviTjfxWwqCK4BPIuwCLcBGAsYHQ/s1600/close.png) top right no-repeat;
   text-align: right;
   outline: none;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
